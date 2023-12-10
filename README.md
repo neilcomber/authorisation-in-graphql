@@ -1,6 +1,6 @@
 
 
-# A small React project initaitalising and storing user data via GraphQL
+# A small React project initaitalising users and structuring their data via GraphQL
 
 This is a react-based project allowing a user to create a profile, login and logout of a dashboard. It can accomodate multiple users.
 
