@@ -17,7 +17,7 @@ MongoDB for database storage & retrieval.
 # Setup
 
 - Run `npm install --legacy-peer-deps` in the root of the project to install dependencies
-- Run 'npm run dev' to run the program (as it is not its own standalone app i haven't created a non-dev based runtime as yet)
+- Run `lnpm run dev` to run the app (as it is not its own standalone app i haven't created a non-dev based runtime as yet)
 - Access the app at `localhost:4000` in your browser
   
 # Still to do
