@@ -24,5 +24,6 @@ I have built it in to be used to add multiple user functionality to other apps i
 - add additional password authentication in Signup, so the user must enter the same password twice (to be added to the frontend component).
 - add additional email and password authentication in Signup so a user must use a valid email address and a password of numbers and letters at least 6 characters long.
 
+A diagram of the data flow around the app
 
 ![Alt Text](SignupAppDataFlow.jpg)
