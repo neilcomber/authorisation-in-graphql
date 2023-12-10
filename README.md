@@ -6,12 +6,12 @@ This is a react-based project allowing a user to create a profile, login and log
 I have built it in to be used to add multiple user functionality to other apps i build when nessecary, it is not designed to be used as a stand alone app.
 
 # Some key technologies used:
-React 15 for front end components (generally building with class based components)
-GraphQL schemas to organise the data structures
-Apollo & react- apollo libraries to integrate GraphQL into React
-Passport.js to handle the user authentication.
-Express to handle server-side logic
-MongoDB for database storage & retrieval.
+- React 15 for front end components (generally building with class based components)
+- GraphQL schemas to organise the data structures
+- Apollo & react- apollo libraries to integrate GraphQL into React
+- Passport.js to handle the user authentication.
+- Express to handle server-side logic
+- MongoDB for database storage & retrieval.
 
 ### Setup
 - There is only a dev mode, as it is not nessecary to use as a stand alone program, it would only be used in conjunction with other tools.
