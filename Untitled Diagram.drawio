@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T16:03:39.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dLwzz7UBb5MwKJ-orgJW" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T20:48:54.484Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ksPwkPJtyFoNVAUcCH_l" version="22.1.7" type="github">
   <diagram name="Page-1" id="Zvaj0uUyztduhH-QTuSw">
     <mxGraphModel dx="903" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vqFTtoPCEcgWrYM2uB1v-1" value="React App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="320" height="80" as="geometry" />
+          <mxGeometry x="240" y="20" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vqFTtoPCEcgWrYM2uB1v-2" value="GraphQL&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="90" height="80" as="geometry" />
@@ -113,15 +113,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="500" as="sourcePoint" />
             <mxPoint x="540" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vqFTtoPCEcgWrYM2uB1v-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="90" as="sourcePoint" />
-            <mxPoint x="400" y="90" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="399.66" y="120" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vqFTtoPCEcgWrYM2uB1v-26" value="Before user is signed up/ logged in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
