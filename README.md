@@ -1,5 +1,4 @@
 
-
 # A small React project initaitalising users and structuring their data via GraphQL
 
 This is a react-based project allowing a user to create a profile, login and logout of a dashboard. It can accomodate multiple users.
@@ -14,8 +13,8 @@ Passport.js to handle the user authentication.
 Express to handle server-side logic
 MongoDB for database storage & retrieval.
 
-# Setup
-
+### Setup
+- There is only a dev mode, as it is not nessecary to use as a stand alone program, it would only be used in conjunction with other tools.
 - Run `npm install --legacy-peer-deps` in the root of the project to install dependencies
 - Run `npm run dev` to run the app (as it is not its own standalone app i haven't created a non-dev based runtime as yet)
 - Access the app at `localhost:4000` in your browser
