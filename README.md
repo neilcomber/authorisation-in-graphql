@@ -27,3 +27,5 @@ I have built it in to be used to add multiple user functionality to other apps i
 A diagram of the data flow around the app
 
 ![Alt Text](SignupAppDataFlow.jpg)
+
+![Alt Text](ReactComponentAuthorisationApp.jpg)
