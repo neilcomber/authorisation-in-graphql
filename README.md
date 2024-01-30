@@ -1,9 +1,9 @@
 
-## A small React project initaitalising users and structuring their data via GraphQL
+## A React-based project initaitalising users and structuring their data via GraphQL
 
 This is a react-based project allowing a user to create a profile, login and logout of a dashboard. It can accomodate multiple users.
 
-I have built it in to be used to add multiple user functionality to other apps i build when nessecary, it is not designed to be used as a stand alone app.
+It is built to add multiple user functionality to other apps when nessecary, it is not designed to be used as a stand alone app.
 
 ### Some key technologies used:
 - React 15 for front end components (generally building with class based components)
