@@ -8,10 +8,10 @@ It is built to add multiple user functionality to other apps when nessecary, it 
 ### Some key technologies used:
 - React 15 for front end components (generally building with class based components)
 - GraphQL schemas to organise the data structures
-- Apollo & react- apollo libraries to integrate GraphQL into React
-- Passport.js to handle the user authentication.
-- Express to handle server-side logic
-- MongoDB for database storage & retrieval.
+- Apollo & react- apollo libraries 
+- Passport.js for user authentication.
+- Express
+- MongoDB Atlas.
 
 ### Setup
 - There is only a dev mode, as it is not nessecary to use as a stand alone program, it would only be used in conjunction with other tools.
