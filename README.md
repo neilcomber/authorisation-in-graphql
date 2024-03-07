@@ -13,15 +13,15 @@ It is built to add multiple user functionality to other apps when nessecary, it 
 - Express
 - MongoDB Atlas.
 
+ ### A walkthrough of my user authorisation project:
+[![user auth app walkthrough video](https://i.imgur.com/IGzHM9Fm.png)](https://youtu.be/b-tXme2QObs)  
+
 ### Setup
 - There is only a dev mode, as it is not nessecary to use as a stand alone program, it would only be used in conjunction with other tools.
 - Run `npm install --legacy-peer-deps` in the root of the project to install dependencies
 - Run `npm run dev` to run the app (as it is not its own standalone app i haven't created a non-dev based runtime as yet)
 - Access the app at `localhost:4000` in your browser
 
--  ### A walkthrough of my user authorisation project:
-
-[![user auth app walkthrough video](https://i.imgur.com/IGzHM9Fm.png)](https://youtu.be/b-tXme2QObs)  
   
 ### Still to do
 
